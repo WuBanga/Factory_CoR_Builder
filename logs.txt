@@ -1,0 +1,4 @@
+INFO log 2
+DEBUG log 1
+WARNING log 3
+CRITICAL log 4
